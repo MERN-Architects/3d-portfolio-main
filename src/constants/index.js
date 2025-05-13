@@ -12,6 +12,15 @@ const navLinks = [
     link: "#skills",
   },
   {
+    name: "Blog",
+    link: "#blog",
+  },
+  {
+    name: "Agency",
+    link: "https://technestagency.vercel.app",
+    isExternal: true,
+  },
+  {
     name: "Testimonials",
     link: "#testimonials",
   },
